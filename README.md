@@ -8,6 +8,6 @@ The dataset used for this project is provided by the National Institute of Healt
 ## Models
 This project combines two powerful approaches to model the dynamics of COVID-19:
 
-Markov Chains for stochastic modeling of disease progression.
-Neural Networks for capturing complex, non-linear relationships in the data.
+1. Markov Chains for stochastic modeling of disease progression.
+2. Neural Networks for capturing complex, non-linear relationships in the data.
 This repository aims to offer insights into the pandemic's evolution in Colombia and explore advanced methodologies for epidemiological research.
