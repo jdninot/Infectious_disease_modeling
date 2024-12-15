@@ -10,4 +10,5 @@ This project combines two powerful approaches to model the dynamics of COVID-19:
 
 1. Markov Chains for stochastic modeling of disease progression.
 2. Neural Networks for capturing complex, non-linear relationships in the data.
+
 This repository aims to offer insights into the pandemic's evolution in Colombia and explore advanced methodologies for epidemiological research.
